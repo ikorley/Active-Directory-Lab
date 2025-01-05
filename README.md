@@ -20,32 +20,48 @@ Youtube Description
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set Up windows 2019 client: <br/>
+<img src="https://i.imgur.com/cZXTmBj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Logging in:  <br/>
+<img src="https://i.imgur.com/M7n7xW8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assigning IP for internal address: <br/>
+<img src="https://i.imgur.com/ZTYbVGS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setup Active Directory (Will take some time):  <br/>
+<img src="https://i.imgur.com/MoAP1oW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add a new admin user:  <br/>
+<img src="https://i.imgur.com/jGNNbcH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setup a remote access server:  <br/>
+<img src="https://i.imgur.com/NXqjBwO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Setup a new DHCP server:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Setup user accounts using Powershell:  <br/>
+<img src="https://i.imgur.com/cMeXEUu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Set up client:  <br/>
+<img src="https://i.imgur.com/8ybTFFk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Assign client to domain:  <br/>
+<img src="https://i.imgur.com/F8xoBPe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+Connecting to domain client:  <br/>
+<img src="https://i.imgur.com/SwJj0uP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
