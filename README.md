@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/dyM6UGGekhI)
 
 <h2>Description</h2>
-Youtube Description
+In this video I demonstrate how to set up active directory, create accounts with powershell and setup remote access sever.
 <br />
 
 
